@@ -1,12 +1,12 @@
 ---
-time: 1409864485
+time: 1409864565
 inventory:
   /home/index.html:
-    md5: 5258779ab7540b3998bd231872b991b5
-    time: 1409864485
+    md5: a4f159075f49126fe4c27344b70d1e25
+    time: 1409864565
   /index.html:
-    md5: 5258779ab7540b3998bd231872b991b5
-    time: 1409864485
+    md5: a4f159075f49126fe4c27344b70d1e25
+    time: 1409864565
   /CNAME:
     md5: 1e14e7c61da5ff1940f779d3e6db3fa2
     time: 1409863924
@@ -14,8 +14,8 @@ inventory:
     md5: d580dd777b619b3810135f364c892096
     time: 1409864485
   /feed.xml:
-    md5: 5071ae05229225b83a37ed611c321d56
-    time: 1409864485
-  /style.css:
-    md5: 9187a6775bdce8f1f2143accea89ba6c
-    time: 1409863924
+    md5: 17ef6856dbedbba2e2c612821879cffd
+    time: 1409864565
+  /images/logo.png:
+    md5: 1539951cd306905a95ed6850a383eb65
+    time: 1409864565

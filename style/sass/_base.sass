@@ -1,0 +1,18 @@
+*, *:after, *:before
+  @include box-sizing(border-box)
+
+html
+  font-size: 62.5%
+
+body
+  color: $c-text
+  background: $c-bg
+  font-family: $avenir
+
+a
+  text-decoration: none
+  color: $c-text
+  font-weight: normal
+
+.title
+  @include text-large
